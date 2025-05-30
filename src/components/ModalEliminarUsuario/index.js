@@ -1,0 +1,1 @@
+export { ModalEliminarUsuario } from './ModalEliminarUsuario';
